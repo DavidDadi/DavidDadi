@@ -2,8 +2,8 @@
 <h3 align="center">HTML Email Developer From Canada</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
-- I like to create Email Designs with HTML And CSS.
-
+- I like to create Responsive Email Designs with HTML And CSS.
+- Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
