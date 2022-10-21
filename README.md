@@ -2,6 +2,7 @@
 <h3 align="center">HTML Email Developer From Canada</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
+I like to create Email Designs with HTML And CSS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
