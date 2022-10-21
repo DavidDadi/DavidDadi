@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
 - I like to create Responsive Email Designs with HTML And CSS.
 - Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
-- Emails are compatiable with mobile devices and all email clients.
+- The Emails I have created are compatiable with mobile devices and all email clients.
 
 
 
