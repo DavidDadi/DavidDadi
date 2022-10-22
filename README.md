@@ -5,6 +5,7 @@
 - I like to create Responsive Email Designs with HTML And CSS.
 - Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
 - The Emails I have created are compatiable with mobile devices and all email clients.
+- All Email Projects are in the pinned section. All recreated email designs of popluar companies with html and css.
 
 
 
