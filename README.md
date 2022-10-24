@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Dadi</h1>
 <h3 align="center">HTML Email Developer From Canada</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- I’m currently learning **HTML, CSS, Javascript**
 - I like to create Responsive Email Designs with HTML And CSS.
 - Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
 - The Emails I have created are compatiable with mobile devices and all email clients.
