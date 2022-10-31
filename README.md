@@ -5,7 +5,7 @@
 - I am proficient in **HTML and CSS**.
 - I like to create Responsive Email Designs with HTML And CSS.
 - Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
-- Can also create email templates using Salesforce lightning email builder.
+- Can also create email templates using Salesforce marketing cloud.
 - The Emails I have created are compatiable with mobile devices and all email clients.
 - All finished coded emails are tested with Litmus PutsMail to test the email's compatibilities with email clients.
 - Very self-motivated and eager to constantly improve and learn new things and programming languages.
