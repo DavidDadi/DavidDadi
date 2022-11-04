@@ -5,7 +5,8 @@
 - I am proficient in **HTML and CSS**.
 - I like to create Responsive Email Designs with HTML And CSS.
 - Some Emails I have created are Transactional Emails, Promotional Emails, and Email Letters.
-- Willing to learn Salesforce Marketing Cloud To create email templates and email automation.
+- Have Created Emails In Salesforce Email Template Builder.
+- Willing to learn Salesforce Marketing Cloud..
 - The Emails I have created are compatiable with mobile devices and all email clients.
 - All finished coded emails are tested with Litmus PutsMail to test the email's compatibilities with email clients.
 - Very self-motivated and eager to constantly improve and learn new things and programming languages.
